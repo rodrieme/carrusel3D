@@ -6,7 +6,8 @@ creando una sensación de profundidad real mediante transformaciones 3D.
 
 🔗 **Demo en vivo:** [https://rodrieme.github.io/carrusel3D/]
 
-<img width="1198" height="658" alt="carrugif" src="https://github.com/user-attachments/assets/50979112-2d28-44bd-94fa-d0f6d898874e" />
+<img width="1144" height="648" alt="carhd" src="https://github.com/user-attachments/assets/5d25a149-6824-4b63-96fd-df7e9b74c8a1" />
+
 
 
 ---
